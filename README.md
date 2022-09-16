@@ -16,29 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-<body>
+ <h1>The progress element</h1>
 
-<div class="container">
-  <h2>Stacked Progress Bars</h2>
-  <p>Create a stacked progress bar by placing multiple bars into the same div with class .progress:</p> 
-  <div class="progress">
-    <div class="progress-bar progress-bar-success" role="progressbar" style="width:40%">
-      Free Space
-    </div>
-    <div class="progress-bar progress-bar-warning" role="progressbar" style="width:10%">
-      Warning
-    </div>
-    <div class="progress-bar progress-bar-danger" role="progressbar" style="width:20%">
-      Danger
-    </div>
-  </div>
-</div>
+<label for="file">Downloading progress:</label>
+<progress id="file" value="32" max="100"> 32% </progress>
 
-</body>
 
 
 
