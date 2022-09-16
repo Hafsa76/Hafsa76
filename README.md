@@ -17,9 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 
  <h1>The progress element</h1>
+![language](https://user-images.githubusercontent.com/110823270/190657983-eaa29ce0-7017-4841-84af-1a0ddf0cf694.png)
 
-<label for="file">Downloading progress:</label>
-<progress id="file" value="32" max="100"> 32% </progress>
 
 
 
