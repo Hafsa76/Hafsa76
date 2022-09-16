@@ -23,7 +23,12 @@
 <br>
 
 ## 🛠 Skills
- HTML, CSS, Javascript, PHP and MySQL.
+- HTML
+- CSS
+- Javascript
+- PHP
+- MySQL
+<!--  HTML, CSS, Javascript, PHP and MySQL. -->
 
 
 <br><br>
