@@ -25,9 +25,13 @@
 ## 🛠 Skills
 - HTML
 - CSS
-- Javascript
+- Javascript              
 - PHP
-- MySQL
+- MySQL        
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa76&layout=compact)](https://github.com/Hafsa76/github-readme-stats)
+
 <!--  HTML, CSS, Javascript, PHP and MySQL. -->
 
 
@@ -75,4 +79,15 @@ If you have any feedback, please reach out to us at hafsasaeed463@gmail.com
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+languages_card:
+<p align="center">
+<a align= "center" href="https://github.com/Hafsa76">
+ <img alt= "stats card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa76&layout=compact)](https://github.com/Hafsa76/github-readme-stats" />
+</a>
+</p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa76&layout=compact)](https://github.com/Hafsa76/github-readme-stats)
  -->
+ 
+ 
+ 
